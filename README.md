@@ -1,15 +1,15 @@
 # Hey, I'm Jelani 👋
 
-I build useful things with software—especially where APIs, automation, and data meet.
+I'm a lifelong student, builder, and explorer. I enjoy creating useful things with software, learning from new places and people, and making time for a good workout or a round of golf.
 
-By day, I work on products at Zapier. Outside of that, I'm usually exploring an idea, following a sports-data thread, or planning the next adventure.
+By day, I work on products at Zapier. I’m especially drawn to the intersection of APIs, automation, and data—but I try to bring the same curiosity to travel, training, and everything else I take on.
 
-## What I'm into
+## What keeps me curious
 
-- **Automation & integrations** — connecting services and making repetitive work disappear
-- **APIs & developer tools** — thoughtful interfaces that are pleasant to build with
-- **Data pipelines** — turning raw data into something useful and repeatable
-- **TypeScript & Python** — my usual tools for getting ideas into the world
+- **Building & automation** — connecting services and making repetitive work disappear
+- **APIs, developer tools & data** — thoughtful interfaces and useful, repeatable systems
+- **Travel & adventure** — learning through new places and experiences
+- **Strength training & golf** — staying active, focused, and always improving
 
 ## A few things I've built
 
@@ -20,7 +20,7 @@ By day, I work on products at Zapier. Outside of that, I'm usually exploring an 
 
 ## Beyond code
 
-I'm a lifelong student with a love of travel, adventure, and technology. I enjoy learning from new places, new people, and hard technical problems.
+When I'm away from the keyboard, you'll find me strength training, on the golf course, or planning the next trip. I enjoy hard problems of every kind—and the perspective that comes from stepping outside of them.
 
 ## Find me
 
