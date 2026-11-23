@@ -16,6 +16,7 @@ By day, I work on products at Zapier. I’m especially drawn to the intersection
 
 - [NHL Pipeline](https://github.com/MorpheusNephew/improved-octo-waddle) — a TypeScript project for working with hockey data
 - [Positivity AI](https://github.com/MorpheusNephew/positivity-ai) — an experiment built around a simple goal: more positivity
+- [Ghost CRM](https://github.com/MorpheusNephew/ghost-crm) — a CRM project for managing customer relationships
 - [TD Ameritrade client](https://github.com/MorpheusNephew/td-ameritrade) — an archived TypeScript API client
 - [CloudFront signed files](https://github.com/MorpheusNephew/cloudfront-signed-files) — utilities for signed URLs and cookies
 
